@@ -1,6 +1,6 @@
 {
   "name": "karin-plugin-git-neko",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "ClarityJS",
   "type": "module",
   "main": "lib/index.js",
